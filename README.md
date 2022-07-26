@@ -1,2 +1,10 @@
-# eda-hotel-booking
-Explore and analyze the data to discover important factors that govern the bookings.
+A customer’s expectation of a hotel experience has grown over the years and hotel managements need to keep up with it. In this project, I have attempted to analyze a hotel booking dataset and come up with some relevant conclusions about the factors that contribute to count of bookings. With this information, hotels will be equipped to improve their performance.
+
+A dataset containing 119390 records across 32 features has been given with information regarding bookings of two hotels from July 2015 to August 2017. These two hotels are City Hotel and Resort Hotel. Relevant libraries like NumPy for numerical operations, Pandas for data manipulation, matplotlib and seaborn for data visualization were loaded. In addition to these libraries, pycountry library was installed and loaded, which was used for converting country codes to names. After libraries were loaded and drive was mounted, data from csv file was read and store in a pandas dataframe.
+
+Then data inspection was conducted and found that 31,994 rows are duplicate rows, and four columns has missing value. Data cleaning was done to handle these irregularities. In addition to this, new useful columns were created from existing ones and data type of some columns were converted to appropriate data types.
+
+Dataset, after cleaning, was subjected to exploratory data analysis, to visualize the data and gain insights that can be later used to increase revenue. EDA was carried out in 3 steps. Univariate analysis was carried out to find the percentage of bookings made in each hotel, percentage of repeated guests, number of bookings in each month, etc. Bivariate analysis was carried out to find the relationship between two variables like how lead time affects booking cancellations, how change in ADR affects the length of stay, etc. Finally, correlation analysis was carried out to find the relationship between various numerical variables.
+
+After EDA, I was able to draw some relevant conclusions that can be used by hotel managements to improve their performance.
+
