@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="images/banner_hotel.png" alt="Banner">
+  <img src="Images/banner_hotel.png" alt="Banner">
 </p>
 
 In this project, I have attempted to analyze a hotel booking dataset and come up with some relevant conclusions about the factors that contribute to count of bookings. No personal information of customer is provided in this dataset.
