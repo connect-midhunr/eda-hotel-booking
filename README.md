@@ -29,13 +29,13 @@ A dataset containing 119390 records across 32 features has been given with infor
 The main objective is to explore the given dataset and discover the factors which govern the bookings. The dataset will be analyzed and from the conclusions drawn from it will be used to recognize the missteps taken by the manager. With this information, hotels will be equipped to improve their performance.
 
 Data analysis is performed to answer the following questions:
-•	Which hotel is more preferred among travelers?
-•	Which hotel retains more customers?
-•	Which is the busiest month?
-•	Which is the most popular room type?
-•	From which country the greatest number of bookings were made?
-•	How Long People Stay in the hotel?
-•	How many bookings were cancelled?
+<li>Which hotel is more preferred among travelers?</li>
+<li>Which hotel retains more customers?</li>
+<li>Which is the busiest month?</li>
+<li>Which is the most popular room type?</li>
+<li>From which country the greatest number of bookings were made?</li>
+<li>How Long People Stay in the hotel?</li>
+<li>How many bookings were cancelled?</li>
 
 ## :book: Approach
 
