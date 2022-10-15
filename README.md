@@ -44,7 +44,7 @@ Data analysis is performed to answer the following questions:
 3.	Reading data from files given.
 4.	Data inspection.
 5.  Data cleaning.
-6.	Exploratory data analysis, to find which factors affect booking and how they affect it.
+6.	Exploratory data analysis, to find which factors affect the bookings and how they affect it.
 7.	Conclusions drawn from analysis.
 
 ## :book: Exploratory Data Analysis
