@@ -6,7 +6,7 @@ In this project, I have attempted to analyze a hotel booking dataset and come up
 
 ## :floppy_disk: Project Files Description</h2>
 
-<p>This project contains an executable iPython Notebook and a presentation as follows:</p>
+<p>This project contains an executable iPython Notebook, presentation and source files as follows:</p>
 <h4>Executable Files:</h4>
 <ul>
   <li><b>EDA_Hotel_Booking_Analysis_Capstone_Project.ipynb</b> - Google Colab notebook containing data summary, exploration, visualisations and conclusion.</li>
