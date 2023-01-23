@@ -82,6 +82,14 @@ It is used to measure the strength of the linear relationship between two variab
 Correlation analysis of the dataset was carried out using a correlation heatmap with the features, 'lead_time', 'adr', 'total_guests', 'total_stays_in_nights', 'previous_cancellations', 
 'booking_changes', 'days_in_waiting_list', 'required_car_parking_spaces', 'total_of_special_requests' and 'previous_bookings_not_canceled'.
 
+### 📊 Data Visualization
+
+An interactive dashboard was also created to display charts associated with the analysis.
+
+<img src="Images/DataViz.png" alt="Banner">
+
+Click [here](https://public.tableau.com/views/HotelBookingAnalysis_16716416454840/HotelBookingAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link) to interact with the data visualization.
+
 ## 📘: Conclusion
 
 The following conclusions were drawn from analysis:
