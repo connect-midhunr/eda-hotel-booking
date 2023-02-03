@@ -17,7 +17,7 @@ In this project, I have attempted to analyze a hotel booking dataset and come up
   <li><b>Presentation PDF - EDA - Hotel Booking Analysis - Capstone Project.pdf</b> - Presentation slideshow of the project.</li>
 </ul>
 
-<h4>Source Directory:</h4>
+<h4>Source:</h4>
 <ul>
   <li><b>Hotel Bookings.csv</b> - Includes booking data for both hotels.</li>
 </ul>
