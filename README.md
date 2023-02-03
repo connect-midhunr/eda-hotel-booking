@@ -58,7 +58,6 @@ Bivariate analyses were done on:
 <li>Number of bookings cancelled when reserved room type is the same and different as the assigned room type.</li>
 <li>Percentage of cancelled and non-cancelled bookings in each distribution channel.</li>
 <li>Change in the length of stay with the change in ADR.</li>
-Charts used for univariate analyses are scatter plot, density plot, stacked bar chart and vertical bar chart.
 
 ### 📊 Correlation Analysis
 It is used to measure the strength of the linear relationship between two variables and compute their association. Correlation analysis calculates the level of change in one variable due to the change in the other.
