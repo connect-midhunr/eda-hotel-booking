@@ -4,24 +4,6 @@
 
 In this project, I have attempted to analyze a hotel booking dataset and come up with some relevant conclusions about the factors that contribute to count of bookings. No personal information of customer is provided in this dataset.
 
-## :floppy_disk: Project Files Description</h2>
-
-<p>This project contains an executable iPython Notebook, presentation and source files as follows:</p>
-<h4>Executable Files:</h4>
-<ul>
-  <li><b>EDA_Hotel_Booking_Analysis_Capstone_Project.ipynb</b> - Google Colab notebook containing data summary, exploration, visualisations and conclusion.</li>
-</ul>
-
-<h4>Documentation:</h4>
-<ul>
-  <li><b>Presentation PDF - EDA - Hotel Booking Analysis - Capstone Project.pdf</b> - Presentation slideshow of the project.</li>
-</ul>
-
-<h4>Source:</h4>
-<ul>
-  <li><b>Hotel Bookings.csv</b> - Includes booking data for both hotels.</li>
-</ul>
-
 ## :book: Problem Statement
 
 A dataset containing 119390 records across 32 features has been given with information regarding bookings of two hotels from July 2015 to August 2017. These two hotels are City Hotel and Resort Hotel.
