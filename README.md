@@ -19,7 +19,7 @@ In this project, I have attempted to analyze a hotel booking dataset and come up
 
 <h4>Source Directory:</h4>
 <ul>
-  <li><b>Data & Resources.zip</b> - Includes booking data  for both hotels.</li>
+  <li><b>Hotel Bookings.csv</b> - Includes booking data for both hotels.</li>
 </ul>
 
 ## :book: Problem Statement
