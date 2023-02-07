@@ -66,7 +66,7 @@ Correlation analysis of the dataset was carried out using a correlation heatmap 
 
 ### 📊 Data Visualization
 
-An interactive dashboard was also created to display charts associated with the analysis.
+An interactive dashboard was also created with Tableau to display charts associated with the analysis.
 
 <img src="Images/DataViz.png" alt="Banner">
 
